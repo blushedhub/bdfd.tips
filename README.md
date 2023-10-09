@@ -1,7 +1,8 @@
 # Interdiction
-A community run repository for sharing and documenting BDFD tips and tutorials 💡
-- Official BDFD Wiki
-- BDFD Discord Server
-- BDFD GitHub Page
+Welcome to bdfd.tips! A community run repository for sharing and documenting BDFD tips and tutorials 💡
+- [Official BDFD Wiki]() 
+- [BDFD Discord Server]() 
+- [BDFD GitHub]() 
 > [!NOTE]
-> This repository is still work in progress and are worked on by one person. If you encounter issue or grammar error, please open an issue or pull request. 
+> This repository is not an official creation by Nillpointer Software. All rights remain with the original creator.
+
